@@ -19,9 +19,7 @@
 |1|[숫자 야구](https://github.com/kimkyunghun3/baseballGame)|팀(2인)|1주|[PR](https://github.com/yagom-academy/ios-number-baseball/pull/80)|[PR](https://github.com/yagom-academy/ios-number-baseball/pull/90)|-|-|[forestjae](https://github.com/forestjae)|
 </br>
 
-## 🤓 코드리뷰 활동
-
-* 6기 리뷰어 활동
+## 6기 리뷰어 활동
 
 | 프로젝트명 | STEP1 | STEP2 | 
 | :-: | :-: | :-: |
