@@ -8,7 +8,7 @@
 ## 프로젝트
 |No|프로젝트| 팀/개인 |기간|Step 1|Step 2|Step 3|Step 4|리뷰어|
 |:--:|:------:|:---:|:------:|:------:|:------:|:------:|:--------:|:--------:|
-|9|[프로젝트 매니저](https://github.com/kimkyunghun3/ios-project-manager)|팀(2인)|4주|[PR](https://github.com/yagom-academy/ios-project-manager/pull/119)|[PR](https://github.com/yagom-academy/ios-project-manager/pull/127) </br> [PR](https://github.com/yagom-academy/ios-project-manager/pull/134) </br>[PR](https://github.com/yagom-academy/ios-project-manager/pull/140) </br> [PR](https://github.com/yagom-academy/ios-project-manager/pull/146) </br>[PR](https://github.com/yagom-academy/ios-project-manager/pull/150)|-|-|[Lucas](https://github.com/innocarpe)
+|9|[프로젝트 매니저](https://github.com/kimkyunghun3/ios-project-manager)|팀(2인)|4주|[PR](https://github.com/yagom-academy/ios-project-manager/pull/119)|[PR](https://github.com/yagom-academy/ios-project-manager/pull/127) </br> [PR](https://github.com/yagom-academy/ios-project-manager/pull/134) </br>[PR](https://github.com/yagom-academy/ios-project-manager/pull/140) </br> [PR](https://github.com/yagom-academy/ios-project-manager/pull/146) </br>[PR](https://github.com/yagom-academy/ios-project-manager/pull/150)|[PR](https://github.com/yagom-academy/ios-project-manager/pull/152)</br>[PR](https://github.com/yagom-academy/ios-project-manager/pull/158)</br> [PR](https://github.com/yagom-academy/ios-project-manager/pull/162)|[PR](https://github.com/yagom-academy/ios-project-manager/pull/170)|[Lucas](https://github.com/innocarpe)
 |8|[일기장](https://github.com/kimkyunghun3/ios-diary)|팀(2인)|3주|[PR](https://github.com/yagom-academy/ios-diary/pull/2)|[PR](https://github.com/yagom-academy/ios-diary/pull/16)|[PR](https://github.com/yagom-academy/ios-diary/pull/25)|-|[Tony](https://github.com/Monsteel)
 |7|[오픈 마켓](https://github.com/kimkyunghun3/ios-open-market)|팀(2인)|4주|[PR](https://github.com/yagom-academy/ios-open-market/pull/142)|[PR](https://github.com/yagom-academy/ios-open-market/pull/153)|[PR](https://github.com/yagom-academy/ios-open-market/pull/164)|[PR](https://github.com/yagom-academy/ios-open-market/pull/170)|[린생](https://github.com/jungseungyeo)
 |6|[은행창구매니저](https://github.com/kimkyunghun3/ios-bank-manager)|팀(2인)|2주|[PR](https://github.com/yagom-academy/ios-bank-manager/pull/144)|[PR](https://github.com/yagom-academy/ios-bank-manager/pull/154)|[PR](https://github.com/yagom-academy/ios-bank-manager/pull/163)|[PR](https://github.com/yagom-academy/ios-bank-manager/pull/174)|[TTOzzi](https://github.com/TTOzzi)|
@@ -19,6 +19,9 @@
 |1|[숫자 야구](https://github.com/kimkyunghun3/baseballGame)|팀(2인)|1주|[PR](https://github.com/yagom-academy/ios-number-baseball/pull/80)|[PR](https://github.com/yagom-academy/ios-number-baseball/pull/90)|-|-|[forestjae](https://github.com/forestjae)|
 </br>
 
+## 학습 저장소
+[TIL](https://github.com/kimkyunghun3/TIL_iOS)
+
 ## 6기 리뷰어 활동
 
 | 프로젝트명 | STEP1 | STEP2 | 
@@ -27,6 +30,4 @@
 |묵찌빠게임|[PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/131)|[PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/142)|
 </br>
 
-## 학습기록
 
-* [TIL](https://github.com/kimkyunghun3/TIL_iOS)
